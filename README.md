@@ -6,7 +6,6 @@ Professional weather monitoring system developed on the **STM32F411RE (Nucleo-F4
 * **Advanced Sensor Integration:** Full implementation of the official **Bosch Sensortec BME280 API** for environmental data acquisition.
 * **Communication Protocol:** Master-Slave I2C bus handling both the sensor and the LCD 16x2 (via PCF8574 adapter) on a shared bus.
 * **Data Processing:** Real-time compensation algorithms for Temperature, Humidity, and Atmospheric Pressure.
-* **Embedded Optimization:** Configured float-formatting support (`-u _printf_float`) for precise data presentation.
 
 ## 🛠 Tech Stack
 * **Microcontroller:** ARM Cortex-M4 (STM32F411RE)
