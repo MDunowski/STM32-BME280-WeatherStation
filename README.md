@@ -29,3 +29,4 @@ Professional weather monitoring system developed on the **STM32F411RE (Nucleo-F4
 * **Known Issue - Pressure Calibration:** Currently observing a ~300hPa offset in pressure readings (~695 hPa). The communication is verified as stable; the issue is identified as a mathematical compensation mismatch within the 32-bit API implementation. **Status: Investigation in progress.**
 
 ## 📸 Project Preview
+![Demo](demo.gif)
