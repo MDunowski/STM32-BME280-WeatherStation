@@ -1,8 +1,3 @@
-Proszę bardzo, oto kompletny kod do pliku README.md. Przygotowałem go tak, aby wyglądał maksymalnie profesjonalnie i „inżyniersko”.
-
-Skopiuj poniższą treść w całości:
-
-Markdown
 # STM32 Weather Station (BME280 & LCD 16x2)
 
 Professional weather monitoring system developed on the **STM32F411RE (Nucleo-F411)** platform. The project integrates a high-precision Bosch Sensortec sensor with a character display via the I2C bus.
